@@ -1,0 +1,1 @@
+[SPEAKERSPRITE=Player]The door is locked.
